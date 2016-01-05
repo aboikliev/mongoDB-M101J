@@ -1,5 +1,5 @@
 # MongoDB course 
-Start: 05 Jan 2016 UTC End: 23 Feb 2016
+Start: 05 Jan 2016 End: 23 Feb 2016
 # Agenda
 
 Week 1: Introduction and Overview  
